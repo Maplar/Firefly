@@ -193,7 +193,7 @@ importers:
         version: 0.9.12(prettier@3.10.1)(typescript@6.0.3)
       '@astrojs/cloudflare':
         specifier: ^14.4.9
-        version: 14.4.9(@types/node@26.6.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.10))(yaml@2.9.1)
+        version: 14.4.9(@types/node@26.6.6)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.6))(yaml@2.9.1)
       '@astrojs/markdown-remark':
         specifier: ^7.3.4
         version: 7.3.10(supports-color@10.2.2)
@@ -202,7 +202,7 @@ importers:
         version: 0.4.10
       '@astrojs/mdx':
         specifier: ^8.1.6
-        version: 8.1.6(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@astrojs/markdown-satteri@0.4.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+        version: 8.1.6(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@astrojs/markdown-satteri@0.4.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       '@astrojs/rss':
         specifier: ^4.0.19
         version: 4.0.19
@@ -211,7 +211,7 @@ importers:
         version: 3.7.6
       '@astrojs/svelte':
         specifier: 9.1.6
-        version: 9.1.6(@types/node@26.6.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(svelte@5.59.1)(terser@5.51.4)(tsx@4.23.15)(typescript@6.0.3)(yaml@2.9.1)
+        version: 9.1.6(@types/node@26.6.6)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(svelte@5.59.1)(terser@5.51.4)(tsx@4.23.15)(typescript@6.0.3)(yaml@2.9.1)
       '@expressive-code/plugin-collapsible-sections':
         specifier: ^0.44.3
         version: 0.44.4
@@ -274,10 +274,10 @@ importers:
         version: 4.0.4
       astro:
         specifier: 7.4.13
-        version: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+        version: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
       astro-expressive-code:
         specifier: ^0.44.3
-        version: 0.44.4(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+        version: 0.44.4(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       astro-icon:
         specifier: ^1.2.0
         version: 1.2.0
@@ -295,7 +295,7 @@ importers:
         version: 0.1.0(@expressive-code/core@0.41.7)
       expressive-code-language-badge:
         specifier: ^1.1.0
-        version: 1.1.0(@astrojs/starlight@0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3))(@expressive-code/core@0.41.7)
+        version: 1.1.0(@astrojs/starlight@0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3))(@expressive-code/core@0.41.7)
       github-slugger:
         specifier: ^2.0.0
         version: 2.0.0
@@ -370,7 +370,7 @@ importers:
         version: 0.11.7
       sharp:
         specifier: ^0.35.5
-        version: 0.35.5(@types/node@26.6.10)
+        version: 0.35.5(@types/node@26.6.6)
       stylus:
         specifier: ^0.64.0
         version: 0.64.0(supports-color@10.2.2)
@@ -394,7 +394,7 @@ importers:
         version: 5.2.0
       wrangler:
         specifier: ^4.166.0
-        version: 4.168.0(@types/node@26.6.10)
+        version: 4.168.0(@types/node@26.6.6)
     devDependencies:
       '@astrojs/ts-plugin':
         specifier: ^1.11.0
@@ -413,7 +413,7 @@ importers:
         version: 1.65.0
       '@tailwindcss/vite':
         specifier: ^4.3.3
-        version: 4.3.5(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+        version: 4.3.5(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       '@types/qrcode':
         specifier: ^1.5.6
         version: 1.5.6
@@ -1388,16 +1388,28 @@ packages:
       workerd:
         optional: true
 
-  '@cloudflare/vite-plugin@1.70.2':
-    resolution: {integrity: sha512-8bxssxmIrhB2279SyOY6BsmgR5BDVy58qcIeOzxJxPPyMXxm0VNPvh43SgNDM81DZtJQ7gDOoVssdbY4uojYSg==}
+  '@cloudflare/vite-plugin@1.70.1':
+    resolution: {integrity: sha512-a17DWG4xPeIpdSAOrF4QwTPQhSAiRzKLU5kr7/aNWrHt4xC/SAIDGX2JYq1v4mG53XxWvoaM2c3jlZeRGuo7/Q==}
     peerDependencies:
       vite: ^6.1.0 || ^7.0.0 || ^8.0.0
-      wrangler: ^4.168.0
+      wrangler: ^4.164.0
+
+  '@cloudflare/workerd-darwin-64@1.20261117.1':
+    resolution: {integrity: sha512-qfAYw6iPoey0BmPsp4z5ARWOa+XSBD3gQzmcBI2ql9pKTSA5eEC8F1oI6BIk/FVguhomfSn5gS4RzbWhTd/EpQ==}
+    engines: {node: '>=16'}
+    cpu: [x64]
+    os: [darwin]
 
   '@cloudflare/workerd-darwin-64@1.20261123.1':
     resolution: {integrity: sha512-eHJEySbW8swWiAYYaOn4LdtHQEPfug9oetPATkaXbsYxjsMX+nfyJ16//2ghXws8npxA+ZJkt5RYpimFfVdgkQ==}
     engines: {node: '>=16'}
     cpu: [x64]
+    os: [darwin]
+
+  '@cloudflare/workerd-darwin-arm64@1.20261117.1':
+    resolution: {integrity: sha512-cInx5Cr9O27oW+ujyI49lTRQZra/lMgWUFiKmGY3jxDncATSxzfQ6udXHkVvK4//1/PfxQTDyMjdQUIN8m6Aqg==}
+    engines: {node: '>=16'}
+    cpu: [arm64]
     os: [darwin]
 
   '@cloudflare/workerd-darwin-arm64@1.20261123.1':
@@ -1406,10 +1418,22 @@ packages:
     cpu: [arm64]
     os: [darwin]
 
+  '@cloudflare/workerd-linux-64@1.20261117.1':
+    resolution: {integrity: sha512-gZLA8X11m/luZwn+YA3+mDu61vdxNJzpksP/QZqjydKTQ+VUCulsK5gtn9Bqst1p3KJu2kafQpJ1nDQv4B23jA==}
+    engines: {node: '>=16'}
+    cpu: [x64]
+    os: [linux]
+
   '@cloudflare/workerd-linux-64@1.20261123.1':
     resolution: {integrity: sha512-hQs6svgH3YxdgKw7K0IVZ/gmeW49/z4UEHcxpsQHEa6Y2ZabUQef7YCI/BVcaCoHHp8p3cE/cziU3qh9ALIICw==}
     engines: {node: '>=16'}
     cpu: [x64]
+    os: [linux]
+
+  '@cloudflare/workerd-linux-arm64@1.20261117.1':
+    resolution: {integrity: sha512-gxWngFojq41ULKNKb9rpWYvKotN5hT2I/xot+Bpy31cXzrwcTgtDLSMb2t75sW5BJxH7hihFvikgYb577kB3Zg==}
+    engines: {node: '>=16'}
+    cpu: [arm64]
     os: [linux]
 
   '@cloudflare/workerd-linux-arm64@1.20261123.1':
@@ -1417,6 +1441,12 @@ packages:
     engines: {node: '>=16'}
     cpu: [arm64]
     os: [linux]
+
+  '@cloudflare/workerd-windows-64@1.20261117.1':
+    resolution: {integrity: sha512-0OR2Btx5EDonOKvvuGDq8rxBSggxoF1ThQjbZN3vsu3GlaF/oXW5f9/iB78OgV0CzMPTi+hZgzc1NR95UJCURA==}
+    engines: {node: '>=16'}
+    cpu: [x64]
+    os: [win32]
 
   '@cloudflare/workerd-windows-64@1.20261123.1':
     resolution: {integrity: sha512-/zl++/e/0JLMttdz4lUsCo58NaLKQZKancI2YPciaLH9iLHq6UOP2BQZt+dejGRrV9UxdpPYPHUYU9Km5PcALA==}
@@ -1921,25 +1951,12 @@ packages:
     cpu: [arm64]
     os: [darwin]
 
-  '@mermanjs/node-darwin-x64@0.11.0':
-    resolution: {integrity: sha512-41B0xBkK2PjZNQ01nn28mvOWllLr07cHaiKzNdWESmf9zv3IYRwiEVSj1zvchCx3g1tLOxRuZrWwCXn2r04zDQ==}
-    engines: {node: '>=22.0.0'}
-    cpu: [x64]
-    os: [darwin]
-
   '@mermanjs/node-linux-arm64-gnu@0.11.0':
     resolution: {integrity: sha512-Yy5864y5t3EB+mcB++6JluPxBNiAwUX43ZDa3jdzJzXCH/UHr4qxzUlQZIFmD7n03SeJnd2i5LE3ReVNHePslg==}
     engines: {node: '>=22.0.0'}
     cpu: [arm64]
     os: [linux]
     libc: [glibc]
-
-  '@mermanjs/node-linux-arm64-musl@0.11.0':
-    resolution: {integrity: sha512-17xYjIwhUrX96618IOkokL83gE+rehdbYU7Q2un9g8mknDJNZTo63Hp30gWBSegqoQUVKJ0z8lkSh/Kwil/smw==}
-    engines: {node: '>=22.0.0'}
-    cpu: [arm64]
-    os: [linux]
-    libc: [musl]
 
   '@mermanjs/node-linux-x64-gnu@0.11.0':
     resolution: {integrity: sha512-z57Fr38njiXvfyPOO+IJf109aeZUxP5498D+fQW4iYIX7HhpqZVTyZv2Zy+VgGzpfT9Hxs5/au7RJ0kJJB8T2A==}
@@ -1954,12 +1971,6 @@ packages:
     cpu: [x64]
     os: [linux]
     libc: [musl]
-
-  '@mermanjs/node-win32-x64-msvc@0.11.0':
-    resolution: {integrity: sha512-A515+VQIf39/4ZjpMwF3OpaYO+Fg6R+Jyyq92It0bU3iv37y/Dtdzj+yalrdLTCdQjQRYRLxokQ8FG97WYw2bg==}
-    engines: {node: '>=22.0.0'}
-    cpu: [x64]
-    os: [win32]
 
   '@mermanjs/node@0.11.0':
     resolution: {integrity: sha512-k95lT1huQh+7VCSXTG5zfmRo3i87bdnzWhh/VetX9ns1fCpivbMP2sANgLc4n+3BXDYLXZ8cIVwKmKThYHN9fg==}
@@ -2651,8 +2662,8 @@ packages:
   '@types/estree@0.0.39':
     resolution: {integrity: sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==}
 
-  '@types/estree@1.0.11':
-    resolution: {integrity: sha512-YBdNe5JcjYR0sPhJW1QIeRCmI11YhYvaRuGCs9+WCeTTb+Yhb2BE2XMe5/wAqF10FK5g3+q1PDhQABfT7aX0gg==}
+  '@types/estree@1.0.10':
+    resolution: {integrity: sha512-lTyOMnOcmRBzdCv6/4zUZCrEhV0xrqQiUZBZtVcbmLHBXKLnN8q89v/wKRF/Q0HbwVsqbIG3o5HDoFl9sduM+g==}
 
   '@types/hast@3.0.5':
     resolution: {integrity: sha512-rp/ezSWaD1m44dPKICGhiskI13nVr7qTloFwDa/IYkhhf5nzwP+zIQcIJh3WIFSBOy/H1PzB40jPjMDksN4F+g==}
@@ -2678,8 +2689,8 @@ packages:
   '@types/node@18.19.130':
     resolution: {integrity: sha512-GRaXQx6jGfL8sKfaIDD6OupbIHBr9jv7Jnaml9tB7l4v068PAOXqfcujMMo5PhbIs6ggR1XODELqahT2R8v0fg==}
 
-  '@types/node@26.6.10':
-    resolution: {integrity: sha512-WJuPHoGB8WNQuTksNF7SOQpnH02PXeDYz4iueWbBT6/hTWnShY5F3T/hoJA3fY9+uYReDZ7pyTKKx83jQa7aGg==}
+  '@types/node@26.6.6':
+    resolution: {integrity: sha512-MzQj+8Kx3XI40OmUAE6Qoh58ZMNstNNMwn2nfd3qWsfe7nDNSqJNzes4njhz6AHwrSHOffSLwXU6yb474Q4aog==}
 
   '@types/parse-json@4.0.2':
     resolution: {integrity: sha512-dISoDXWWQwUquiKsyZ4Ng+HX2KsPL7LyHKHQwgGFEA3IaKac4Obd+h2a/a6waisAoepJlBcx9paWqjA8/HVjCw==}
@@ -3075,8 +3086,8 @@ packages:
   color-name@1.1.4:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
 
-  colord@2.14.1:
-    resolution: {integrity: sha512-oAnRdUZtIoONz9y5JZEM/Ogg4m/eYIvpCvzFZIFOPfraLqVYTmevf61yeIhcLq/9EXztGOwF4O36pCu143BqGw==}
+  colord@2.14.0:
+    resolution: {integrity: sha512-eSdMel9EBvdFxnchObp7gljRoqYQLr+zXhaxjkym7syVphw1FIhfQwgsA5Bv3jArflZPJEa1rmQtGpa7NRc7Rw==}
 
   combined-stream@1.0.8:
     resolution: {integrity: sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==}
@@ -3373,8 +3384,8 @@ packages:
     engines: {node: '>=0.10.0'}
     hasBin: true
 
-  electron-to-chromium@1.5.494:
-    resolution: {integrity: sha512-Tph7ohL4Xc0ft3DXElYEIVTmPI3H0MtPCTdgtz5AwWGZG6q+vMiT3IzJ3RJX/HJQ8pYzeimQyvi6SsBTOS0nyQ==}
+  electron-to-chromium@1.5.493:
+    resolution: {integrity: sha512-/Wto2sKd0EpepzMqwSP2il2TNc+rnBDF6k1poCvhRKpaSSD4sLGRBE+FydqHs2QwcW9cXKLVDqnauzJy1oByYw==}
 
   emmet@2.4.11:
     resolution: {integrity: sha512-23QPJB3moh/U9sT4rQzGgeyyGIrcM+GH5uVYg2C6wZIxAIJq7Ng3QLT79tl8FUwDXhyq9SusfknOrofAKqvgyQ==}
@@ -3875,8 +3886,8 @@ packages:
   humanize-ms@1.2.1:
     resolution: {integrity: sha512-Fl70vYtsAFb/C06PTS9dZBo7ihau+Tu/DNCk/OyHhea07S+aeMWpFFkUaXRa8fI+ScZbEI8dfSxwY7gxZ9SAVQ==}
 
-  i18next@27.2.9:
-    resolution: {integrity: sha512-GOWWofCGYPSPEzUKJnRLJSoHrSUDa/NzYWqAOJJDZUaM7faLPd9VABlbHDZ+jv8uadu/fq1wsHFfZP6+0tFPkg==}
+  i18next@27.2.7:
+    resolution: {integrity: sha512-q3XlM8YSo6Nmomd+MQ4JPGJGvhgHwfCRXNeFrM8l0F4TuIuoJBqhCxQrdGDHNMjObRuw5O0ReuU968ZeMVlfnw==}
     engines: {node: '>=22'}
     peerDependencies:
       typescript: ^5 || ^6 || ^7
@@ -4507,6 +4518,15 @@ packages:
   mime-types@2.1.35:
     resolution: {integrity: sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==}
     engines: {node: '>= 0.6'}
+
+  miniflare@5.20261117.0-beta:
+    resolution: {integrity: sha512-D2ygY04wQUmbpwgBhj828piErZoj7UMlXNGr4EWQp/c1PNGHyYOh0dMIyobjwOXiD5Ifl1EaEVAoNuBHK+qtkw==}
+    engines: {node: '>=22.12.0'}
+    peerDependencies:
+      kerberos: ^2.0.0
+    peerDependenciesMeta:
+      kerberos:
+        optional: true
 
   miniflare@5.20261123.1-beta:
     resolution: {integrity: sha512-o2a+xv6Ug144FgUJm7ciSWMiI7R0OH0svGCfqb1+6l9cUfZebc6YMWIK43PeyzWr3x6BLq2j4O9i8BsKk055oA==}
@@ -5671,8 +5691,8 @@ packages:
     resolution: {integrity: sha512-nTv2raKFMzGG6JJp0lpNDsRPdfFE6UHlu2rVEjXo8vkx1ZS3LW2CVXqIaLu8xZlu+6tbFs9V58Qc/Jmk/Ii7wA==}
     engines: {node: ^16.14.0 || >= 17.3.0}
 
-  tinyexec@1.4.0:
-    resolution: {integrity: sha512-PV6lIcJQh57aFeJDwx16JNHmgFRh5xguzallrDW1qe8nAghYgr5MKz2K5k7wEyV/ygZhdnIAP8+HZSarHPBCsg==}
+  tinyexec@1.3.1:
+    resolution: {integrity: sha512-GCvB3aoys96IuDFBMcTB46JOR6mdMtAToqwiW8JlWhsoh1mhHi/xn9ss/Dg7N555GiJyEt2qzoG/NHCwM6h1EA==}
     engines: {node: '>=18'}
 
   tinyglobby@0.2.17:
@@ -5752,6 +5772,10 @@ packages:
 
   undici-types@8.9.0:
     resolution: {integrity: sha512-KTDyRTYX8sWmKXAikPHHSyc63CRPETMctyjKFupcC6OBLXT3xsN0e9aF7m+mIXutFWpUXuedtowG7iLOzp0kQg==}
+
+  undici@7.30.1:
+    resolution: {integrity: sha512-03KrMbjIFDWQR5RNPrSw3bd1r12JpyFQl9/yxjUbJtqkjmllqC5lFjZh6ujeuJCKr8EOQvRW872Oy/az+nLYxg==}
+    engines: {node: '>=20.18.1'}
 
   undici@7.30.2:
     resolution: {integrity: sha512-mLyPQnHwUxaM/rideoK/+KL8DaAJLRl4aBCfmX444aCSLnIaomqPLtNRe2jdCYcsk5wZzXrDIQC8ZeYNRAYyIA==}
@@ -6124,6 +6148,11 @@ packages:
   woff2sfnt-sfnt2woff@1.0.0:
     resolution: {integrity: sha512-edK4COc1c1EpRfMqCZO1xJOvdUtM5dbVb9iz97rScvnTevqEB3GllnLWCmMVp1MfQBdF1DFg/11I0rSyAdS4qQ==}
 
+  workerd@1.20261117.1:
+    resolution: {integrity: sha512-iakDbGVtJRiErpWSM5fYT0z3spJ2Mo1x/POsEajBNLqUbTRwm8vMqbB7g8zPN2tzs6eZYNiO5ECyEnAXO9Foxw==}
+    engines: {node: '>=16'}
+    hasBin: true
+
   workerd@1.20261123.1:
     resolution: {integrity: sha512-2FifnvyeJeCgL9G9QbFqldSrkwMkiWt7VqXjA025H8I4vjMsSHUKTmZ6+72VbB8CJZct/gzm2u8o7ltuRaPOmw==}
     engines: {node: '>=16'}
@@ -6271,7 +6300,7 @@ snapshots:
   '@antfu/install-pkg@2.1.0':
     dependencies:
       package-manager-detector: 1.9.0
-      tinyexec: 1.4.0
+      tinyexec: 1.3.1
 
   '@astrojs/astro2tsx@0.1.5':
     dependencies:
@@ -6290,16 +6319,16 @@ snapshots:
       - prettier
       - prettier-plugin-astro
 
-  '@astrojs/cloudflare@14.4.9(@types/node@26.6.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.10))(yaml@2.9.1)':
+  '@astrojs/cloudflare@14.4.9(@types/node@26.6.6)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.6))(yaml@2.9.1)':
     dependencies:
       '@astrojs/internal-helpers': 0.13.2
       '@astrojs/underscore-redirects': 1.0.4
-      '@cloudflare/vite-plugin': 1.70.2(@types/node@26.6.10)(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.10))
-      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      '@cloudflare/vite-plugin': 1.70.1(@types/node@26.6.6)(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.6))
+      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
       piccolore: 0.1.3
       prismjs: 1.30.0
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
-      wrangler: 4.168.0(@types/node@26.6.10)
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      wrangler: 4.168.0(@types/node@26.6.6)
     transitivePeerDependencies:
       - '@types/node'
       - '@vitejs/devtools'
@@ -6438,11 +6467,11 @@ snapshots:
       github-slugger: 2.0.0
       satteri: 0.11.7
 
-  '@astrojs/mdx@8.1.6(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@astrojs/markdown-satteri@0.4.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
+  '@astrojs/mdx@8.1.6(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@astrojs/markdown-satteri@0.4.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
     dependencies:
       '@astrojs/internal-helpers': 0.13.2
       '@astrojs/markdown-satteri': 0.4.10
-      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
       es-module-lexer: 3.0.5
     optionalDependencies:
       '@astrojs/markdown-remark': 7.3.10(supports-color@10.2.2)
@@ -6467,23 +6496,23 @@ snapshots:
       sitemap: 10.0.0
       zod: 4.6.7
 
-  '@astrojs/starlight@0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3)':
+  '@astrojs/starlight@0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3)':
     dependencies:
       '@astrojs/markdown-satteri': 0.4.10
-      '@astrojs/mdx': 8.1.6(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@astrojs/markdown-satteri@0.4.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      '@astrojs/mdx': 8.1.6(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@astrojs/markdown-satteri@0.4.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       '@astrojs/sitemap': 3.7.6
       '@pagefind/default-ui': 1.6.0
       '@types/hast': 3.0.5
       '@types/mdast': 4.0.4
-      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
-      astro-expressive-code: 0.44.4(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      astro-expressive-code: 0.44.4(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       bcp-47: 2.1.2
       hast-util-format: 1.1.0
       hast-util-select: 6.0.5
       hast-util-to-html: 9.0.7
       hast-util-to-string: 3.0.1
       hastscript: 9.0.3
-      i18next: 27.2.9(typescript@6.0.3)
+      i18next: 27.2.7(typescript@6.0.3)
       klona: 2.0.6
       magic-string: 1.4.5
       mdast-util-directive: 3.2.1(supports-color@10.2.2)
@@ -6503,24 +6532,24 @@ snapshots:
       - supports-color
       - typescript
 
-  '@astrojs/svelte-renderer@0.1.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
+  '@astrojs/svelte-renderer@0.1.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
     dependencies:
       '@astrojs/runtime': 0.1.2
       svelte: 5.59.1
-      vitefu: 1.1.4(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      vitefu: 1.1.4(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
     transitivePeerDependencies:
       - vite
 
-  '@astrojs/svelte@9.1.6(@types/node@26.6.10)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(svelte@5.59.1)(terser@5.51.4)(tsx@4.23.15)(typescript@6.0.3)(yaml@2.9.1)':
+  '@astrojs/svelte@9.1.6(@types/node@26.6.6)(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(svelte@5.59.1)(terser@5.51.4)(tsx@4.23.15)(typescript@6.0.3)(yaml@2.9.1)':
     dependencies:
       '@astrojs/internal-helpers': 0.13.2
-      '@astrojs/svelte-renderer': 0.1.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
-      '@sveltejs/vite-plugin-svelte': 7.3.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
-      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      '@astrojs/svelte-renderer': 0.1.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      '@sveltejs/vite-plugin-svelte': 7.3.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
       svelte: 5.59.1
       svelte2tsx: 0.7.63(svelte@5.59.1)(typescript@6.0.3)
       typescript: 6.0.3
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
     transitivePeerDependencies:
       - '@types/node'
       - '@vitejs/devtools'
@@ -6553,7 +6582,7 @@ snapshots:
 
   '@astrojs/underscore-redirects@1.0.4': {}
 
-  '@astrojs/vite-plugin-astro@0.1.3(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
+  '@astrojs/vite-plugin-astro@0.1.3(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
     dependencies:
       '@astrojs/compiler-rs': 0.5.3
       '@astrojs/internal-helpers': 0.13.2
@@ -6563,7 +6592,7 @@ snapshots:
       magic-string: 1.4.5
       rolldown: 1.2.19
       smol-toml: 1.9.1
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
       zod: 4.6.7
 
   '@astrojs/yaml2ts@0.2.4':
@@ -7447,13 +7476,13 @@ snapshots:
     optionalDependencies:
       workerd: 1.20261123.1
 
-  '@cloudflare/vite-plugin@1.70.2(@types/node@26.6.10)(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.10))':
+  '@cloudflare/vite-plugin@1.70.1(@types/node@26.6.6)(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(workerd@1.20261123.1)(wrangler@4.168.0(@types/node@26.6.6))':
     dependencies:
       '@cloudflare/unenv-preset': 2.16.2(unenv@2.0.0-rc.24)(workerd@1.20261123.1)
-      miniflare: 5.20261123.1-beta(@types/node@26.6.10)
+      miniflare: 5.20261117.0-beta(@types/node@26.6.6)
       unenv: 2.0.0-rc.24
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
-      wrangler: 4.168.0(@types/node@26.6.10)
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      wrangler: 4.168.0(@types/node@26.6.6)
       ws: 8.22.0
     transitivePeerDependencies:
       - '@types/node'
@@ -7462,16 +7491,31 @@ snapshots:
       - utf-8-validate
       - workerd
 
+  '@cloudflare/workerd-darwin-64@1.20261117.1':
+    optional: true
+
   '@cloudflare/workerd-darwin-64@1.20261123.1':
+    optional: true
+
+  '@cloudflare/workerd-darwin-arm64@1.20261117.1':
     optional: true
 
   '@cloudflare/workerd-darwin-arm64@1.20261123.1':
     optional: true
 
+  '@cloudflare/workerd-linux-64@1.20261117.1':
+    optional: true
+
   '@cloudflare/workerd-linux-64@1.20261123.1':
     optional: true
 
+  '@cloudflare/workerd-linux-arm64@1.20261117.1':
+    optional: true
+
   '@cloudflare/workerd-linux-arm64@1.20261123.1':
+    optional: true
+
+  '@cloudflare/workerd-windows-64@1.20261117.1':
     optional: true
 
   '@cloudflare/workerd-windows-64@1.20261123.1':
@@ -7895,7 +7939,7 @@ snapshots:
 
   '@mdx-js/mdx@3.1.1(supports-color@10.2.2)':
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       '@types/estree-jsx': 1.0.5
       '@types/hast': 3.0.5
       '@types/mdx': 2.0.14
@@ -7926,13 +7970,7 @@ snapshots:
   '@mermanjs/node-darwin-arm64@0.11.0':
     optional: true
 
-  '@mermanjs/node-darwin-x64@0.11.0':
-    optional: true
-
   '@mermanjs/node-linux-arm64-gnu@0.11.0':
-    optional: true
-
-  '@mermanjs/node-linux-arm64-musl@0.11.0':
     optional: true
 
   '@mermanjs/node-linux-x64-gnu@0.11.0':
@@ -7941,18 +7979,12 @@ snapshots:
   '@mermanjs/node-linux-x64-musl@0.11.0':
     optional: true
 
-  '@mermanjs/node-win32-x64-msvc@0.11.0':
-    optional: true
-
   '@mermanjs/node@0.11.0':
     optionalDependencies:
       '@mermanjs/node-darwin-arm64': 0.11.0
-      '@mermanjs/node-darwin-x64': 0.11.0
       '@mermanjs/node-linux-arm64-gnu': 0.11.0
-      '@mermanjs/node-linux-arm64-musl': 0.11.0
       '@mermanjs/node-linux-x64-gnu': 0.11.0
       '@mermanjs/node-linux-x64-musl': 0.11.0
-      '@mermanjs/node-win32-x64-msvc': 0.11.0
 
   '@mermanjs/web@0.11.0': {}
 
@@ -8254,13 +8286,13 @@ snapshots:
     dependencies:
       acorn: 8.19.0
 
-  '@sveltejs/vite-plugin-svelte@7.3.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
+  '@sveltejs/vite-plugin-svelte@7.3.2(svelte@5.59.1)(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
     dependencies:
       deepmerge: 4.3.1
       obug: 3.0.0
       svelte: 5.59.1
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
-      vitefu: 1.1.4(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      vitefu: 1.1.4(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
 
   '@swup/a11y-plugin@5.2.1(swup@4.10.0)':
     dependencies:
@@ -8469,12 +8501,12 @@ snapshots:
       postcss-selector-parser: 6.0.10
       tailwindcss: 4.3.5
 
-  '@tailwindcss/vite@4.3.5(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
+  '@tailwindcss/vite@4.3.5(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))':
     dependencies:
       '@tailwindcss/node': 4.3.5
       '@tailwindcss/oxide': 4.3.5
       tailwindcss: 4.3.5
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
 
   '@takumi-rs/core-darwin-arm64@2.22.1':
     optional: true
@@ -8535,11 +8567,11 @@ snapshots:
 
   '@types/estree-jsx@1.0.5':
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
 
   '@types/estree@0.0.39': {}
 
-  '@types/estree@1.0.11': {}
+  '@types/estree@1.0.10': {}
 
   '@types/hast@3.0.5':
     dependencies:
@@ -8568,7 +8600,7 @@ snapshots:
     dependencies:
       undici-types: 5.26.5
 
-  '@types/node@26.6.10':
+  '@types/node@26.6.6':
     dependencies:
       undici-types: 8.9.0
 
@@ -8576,11 +8608,11 @@ snapshots:
 
   '@types/qrcode@1.5.6':
     dependencies:
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
 
   '@types/resolve@1.17.1':
     dependencies:
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
 
   '@types/sanitize-html@2.16.2':
     dependencies:
@@ -8588,7 +8620,7 @@ snapshots:
 
   '@types/sax@1.2.7':
     dependencies:
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
 
   '@types/unist@2.0.11': {}
 
@@ -8742,9 +8774,9 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.44.4(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)):
+  astro-expressive-code@0.44.4(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)):
     dependencies:
-      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      astro: 7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
       rehype-expressive-code: 0.44.4
       url-extras: 0.1.0
 
@@ -8754,14 +8786,14 @@ snapshots:
       '@iconify/types': 2.0.0
       '@iconify/utils': 3.1.7
 
-  astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1):
+  astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1):
     dependencies:
       '@astrojs/compiler-rs': 0.5.3
       '@astrojs/internal-helpers': 0.13.2
       '@astrojs/markdown-satteri': 0.4.10
       '@astrojs/runtime': 0.1.2
       '@astrojs/telemetry': 3.4.2
-      '@astrojs/vite-plugin-astro': 0.1.3(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      '@astrojs/vite-plugin-astro': 0.1.3(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       '@capsizecss/unpack': 4.0.1
       '@clack/prompts': 1.9.0
       '@oslojs/encoding': 1.1.0
@@ -8797,20 +8829,20 @@ snapshots:
       smol-toml: 1.9.1
       svgo: 4.1.0
       tinyclip: 1.0.3
-      tinyexec: 1.4.0
+      tinyexec: 1.3.1
       tinyglobby: 0.2.17
       tinyps: 0.5.2
       ultrahtml: 1.7.0
       unifont: 1.0.3
       unstorage: 1.17.6
       verkit: 0.5.0
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
-      vitefu: 1.1.4(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      vitefu: 1.1.4(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))
       xxhash-wasm: 1.1.0
       zod: 4.6.7
     optionalDependencies:
       '@astrojs/markdown-remark': 7.3.10(supports-color@10.2.2)
-      sharp: 0.35.5(@types/node@26.6.10)
+      sharp: 0.35.5(@types/node@26.6.6)
     transitivePeerDependencies:
       - '@azure/app-configuration'
       - '@azure/cosmos'
@@ -8943,7 +8975,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.11.39
       caniuse-lite: 1.0.30001828
-      electron-to-chromium: 1.5.494
+      electron-to-chromium: 1.5.493
       node-releases: 2.0.65
       update-browserslist-db: 1.4.0(browserslist@4.29.6)
 
@@ -9058,7 +9090,7 @@ snapshots:
 
   color-name@1.1.4: {}
 
-  colord@2.14.1: {}
+  colord@2.14.0: {}
 
   combined-stream@1.0.8:
     dependencies:
@@ -9366,7 +9398,7 @@ snapshots:
     dependencies:
       jake: 10.9.4
 
-  electron-to-chromium@1.5.494: {}
+  electron-to-chromium@1.5.493: {}
 
   emmet@2.4.11:
     dependencies:
@@ -9551,7 +9583,7 @@ snapshots:
 
   estree-util-attach-comments@3.0.0:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
 
   estree-util-build-jsx@3.0.1:
     dependencies:
@@ -9564,7 +9596,7 @@ snapshots:
 
   estree-util-scope@1.0.1:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       devlop: 1.1.0
 
   estree-util-to-js@2.0.0:
@@ -9586,7 +9618,7 @@ snapshots:
 
   estree-walker@3.0.3:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
 
   esutils@2.0.3: {}
 
@@ -9598,9 +9630,9 @@ snapshots:
     dependencies:
       '@expressive-code/core': 0.41.7
 
-  expressive-code-language-badge@1.1.0(@astrojs/starlight@0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3))(@expressive-code/core@0.41.7):
+  expressive-code-language-badge@1.1.0(@astrojs/starlight@0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3))(@expressive-code/core@0.41.7):
     dependencies:
-      '@astrojs/starlight': 0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3)
+      '@astrojs/starlight': 0.43.1(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(astro@7.4.13(@astrojs/markdown-remark@7.3.10(supports-color@10.2.2))(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1))(supports-color@10.2.2)(typescript@6.0.3)
       '@expressive-code/core': 0.41.7
 
   expressive-code@0.44.4:
@@ -9998,7 +10030,7 @@ snapshots:
 
   hast-util-to-estree@3.1.3(supports-color@10.2.2):
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       '@types/estree-jsx': 1.0.5
       '@types/hast': 3.0.5
       comma-separated-tokens: 2.0.3
@@ -10033,7 +10065,7 @@ snapshots:
 
   hast-util-to-jsx-runtime@2.3.7(supports-color@10.2.2):
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       '@types/hast': 3.0.5
       '@types/unist': 3.0.3
       comma-separated-tokens: 2.0.3
@@ -10100,7 +10132,7 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
-  i18next@27.2.9(typescript@6.0.3):
+  i18next@27.2.7(typescript@6.0.3):
     optionalDependencies:
       typescript: 6.0.3
 
@@ -10240,11 +10272,11 @@ snapshots:
 
   is-reference@1.2.1:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
 
   is-reference@3.0.3:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
 
   is-regex@1.2.1:
     dependencies:
@@ -10309,7 +10341,7 @@ snapshots:
 
   jest-worker@26.6.2:
     dependencies:
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
       merge-stream: 2.0.0
       supports-color: 7.2.0
 
@@ -10831,7 +10863,7 @@ snapshots:
 
   micromark-extension-mdx-expression@3.0.1:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       devlop: 1.1.0
       micromark-factory-mdx-expression: 2.0.3
       micromark-factory-space: 2.1.0
@@ -10842,7 +10874,7 @@ snapshots:
 
   micromark-extension-mdx-jsx@3.0.2:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       devlop: 1.1.0
       estree-util-is-identifier-name: 3.0.0
       micromark-factory-mdx-expression: 2.0.3
@@ -10859,7 +10891,7 @@ snapshots:
 
   micromark-extension-mdxjs-esm@3.0.0:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       devlop: 1.1.0
       micromark-core-commonmark: 2.0.4
       micromark-util-character: 2.1.1
@@ -10895,7 +10927,7 @@ snapshots:
 
   micromark-factory-mdx-expression@2.0.3:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       devlop: 1.1.0
       micromark-factory-space: 2.1.0
       micromark-util-character: 2.1.1
@@ -10963,7 +10995,7 @@ snapshots:
 
   micromark-util-events-to-acorn@2.0.3:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       '@types/unist': 3.0.3
       devlop: 1.1.0
       estree-util-visit: 2.0.0
@@ -11027,10 +11059,23 @@ snapshots:
     dependencies:
       mime-db: 1.52.0
 
-  miniflare@5.20261123.1-beta(@types/node@26.6.10):
+  miniflare@5.20261117.0-beta(@types/node@26.6.6):
     dependencies:
       '@cspotcode/source-map-support': 0.8.1
-      sharp: 0.35.5(@types/node@26.6.10)
+      sharp: 0.35.5(@types/node@26.6.6)
+      undici: 7.30.1
+      workerd: 1.20261117.1
+      ws: 8.21.0
+      youch: 4.1.0-beta.10
+    transitivePeerDependencies:
+      - '@types/node'
+      - bufferutil
+      - utf-8-validate
+
+  miniflare@5.20261123.1-beta(@types/node@26.6.6):
+    dependencies:
+      '@cspotcode/source-map-support': 0.8.1
+      sharp: 0.35.5(@types/node@26.6.6)
       undici: 7.30.2
       workerd: 1.20261123.1
       ws: 8.21.0
@@ -11304,7 +11349,7 @@ snapshots:
     dependencies:
       browserslist: 4.29.6
       caniuse-api: 3.0.0
-      colord: 2.14.1
+      colord: 2.14.0
       postcss: 8.5.33
       postcss-value-parser: 4.2.0
 
@@ -11365,7 +11410,7 @@ snapshots:
 
   postcss-minify-gradients@5.1.1(postcss@8.5.33):
     dependencies:
-      colord: 2.14.1
+      colord: 2.14.0
       cssnano-utils: 3.1.0(postcss@8.5.33)
       postcss: 8.5.33
       postcss-value-parser: 4.2.0
@@ -11569,7 +11614,7 @@ snapshots:
 
   recma-build-jsx@1.0.0:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       estree-util-build-jsx: 3.0.1
       vfile: 6.0.3
 
@@ -11584,14 +11629,14 @@ snapshots:
 
   recma-parse@1.0.0:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       esast-util-from-js: 2.0.1
       unified: 11.0.5
       vfile: 6.0.3
 
   recma-stringify@1.0.0:
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       estree-util-to-js: 2.0.0
       unified: 11.0.5
       vfile: 6.0.3
@@ -11702,7 +11747,7 @@ snapshots:
 
   rehype-recma@1.0.0(supports-color@10.2.2):
     dependencies:
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       '@types/hast': 3.0.5
       hast-util-to-estree: 3.1.3(supports-color@10.2.2)
     transitivePeerDependencies:
@@ -12066,7 +12111,7 @@ snapshots:
       es-errors: 1.3.0
       es-object-atoms: 1.1.2
 
-  sharp@0.35.5(@types/node@26.6.10):
+  sharp@0.35.5(@types/node@26.6.6):
     dependencies:
       '@img/colour': 1.1.0
       detect-libc: 2.1.2
@@ -12097,7 +12142,7 @@ snapshots:
       '@img/sharp-win32-arm64': 0.35.5
       '@img/sharp-win32-ia32': 0.35.5
       '@img/sharp-win32-x64': 0.35.5
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
 
   shebang-command@2.0.0:
     dependencies:
@@ -12163,7 +12208,7 @@ snapshots:
 
   sitemap@10.0.0:
     dependencies:
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
       '@types/sax': 1.2.7
       sax: 1.6.1
 
@@ -12349,7 +12394,7 @@ snapshots:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.6.0
       '@sveltejs/acorn-typescript': 1.0.13(acorn@8.19.0)
-      '@types/estree': 1.0.11
+      '@types/estree': 1.0.10
       acorn: 8.19.0
       aria-query: 5.3.1
       axobject-query: 4.1.0
@@ -12425,7 +12470,7 @@ snapshots:
 
   tinyclip@1.0.3: {}
 
-  tinyexec@1.4.0: {}
+  tinyexec@1.3.1: {}
 
   tinyglobby@0.2.17:
     dependencies:
@@ -12508,6 +12553,8 @@ snapshots:
   undici-types@5.26.5: {}
 
   undici-types@8.9.0: {}
+
+  undici@7.30.1: {}
 
   undici@7.30.2: {}
 
@@ -12648,7 +12695,7 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.4
 
-  vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1):
+  vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1):
     dependencies:
       lightningcss: 1.33.0
       picomatch: 4.0.7
@@ -12656,7 +12703,7 @@ snapshots:
       rolldown: 1.2.19
       tinyglobby: 0.2.17
     optionalDependencies:
-      '@types/node': 26.6.10
+      '@types/node': 26.6.6
       esbuild: 0.28.2
       fsevents: 2.3.3
       jiti: 2.7.0
@@ -12665,9 +12712,9 @@ snapshots:
       tsx: 4.23.15
       yaml: 2.9.1
 
-  vitefu@1.1.4(vite@8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)):
+  vitefu@1.1.4(vite@8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)):
     optionalDependencies:
-      vite: 8.3.8(@types/node@26.6.10)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
+      vite: 8.3.8(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(stylus@0.64.0(supports-color@10.2.2))(terser@5.51.4)(tsx@4.23.15)(yaml@2.9.1)
 
   volar-service-css@0.0.71(@volar/language-service@2.4.31(typescript@6.0.3)):
     dependencies:
@@ -12843,6 +12890,14 @@ snapshots:
     dependencies:
       pako: 1.0.11
 
+  workerd@1.20261117.1:
+    optionalDependencies:
+      '@cloudflare/workerd-darwin-64': 1.20261117.1
+      '@cloudflare/workerd-darwin-arm64': 1.20261117.1
+      '@cloudflare/workerd-linux-64': 1.20261117.1
+      '@cloudflare/workerd-linux-arm64': 1.20261117.1
+      '@cloudflare/workerd-windows-64': 1.20261117.1
+
   workerd@1.20261123.1:
     optionalDependencies:
       '@cloudflare/workerd-darwin-64': 1.20261123.1
@@ -12851,7 +12906,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20261123.1
       '@cloudflare/workerd-windows-64': 1.20261123.1
 
-  wrangler@4.168.0(@types/node@26.6.10):
+  wrangler@4.168.0(@types/node@26.6.6):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.5.1
       '@cloudflare/unenv-preset': 2.16.2(unenv@2.0.0-rc.24)(workerd@1.20261123.1)
@@ -12861,7 +12916,7 @@ snapshots:
       cloudflare: 5.2.0
       devtools-protocol: 0.0.1182435
       esbuild: 0.28.2
-      miniflare: 5.20261123.1-beta(@types/node@26.6.10)
+      miniflare: 5.20261123.1-beta(@types/node@26.6.6)
       path-to-regexp: 6.3.0
       undici: 7.30.2
       unenv: 2.0.0-rc.24
