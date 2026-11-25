@@ -42,13 +42,13 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "Maplfiy",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "Firefly-lit",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://maplar.cn/",
 
 	// 站点描述
 	description:
