@@ -2,7 +2,7 @@ import type { BackgroundWallpaperConfig } from "@/types/backgroundWallpaper";
 
 export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 壁纸模式："banner" 横幅壁纸，"fullscreen" 全屏壁纸，"overlay" 覆盖透明，"none" 纯色背景无壁纸
-	mode: "banner",
+	mode: "fullscreen",
 	// 是否启用背景视频播放，配置后将在导航栏显示视频播放按钮
 	playerEnable: true,
 	/**
@@ -108,7 +108,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "GitHub",
 					icon: "fa7-brands:github",
-					url: "https://github.com/CuteLeaf/Firefly",
+					url: "https://github.com/Maplar",
 					showName: true,
 				},
 				{
@@ -174,7 +174,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			transparentMode: "semi",
 			// 毛玻璃模糊度，0 即关闭导航栏的毛玻璃
 			// 注意：导航栏子菜单与浮动面板始终保留毛玻璃，模糊度跟随此项但有最小值
-			blur: 12,
+			blur: 8,
 		},
 	},
 	// 覆盖透明覆盖模式特有配置
@@ -186,7 +186,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 背景模糊度
 		blur: 10,
 		// 卡片透明度，0-1之间，值越小越透明
-		cardOpacity: 0.6,
+		cardOpacity: 0.75,
 	},
 	// 全屏壁纸模式特有配置
 	// 壁纸模糊度(blur)、卡片透明度(cardOpacity)、层级(zIndex) 复用上方 overlay 模式的配置；

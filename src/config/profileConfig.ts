@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "Maplar",
 
 	// 个人签名
-	bio: "Hello, I'm Maplar.",
+	bio: "You are the artist of your own life. Don't hand the paintbrush to anyone else.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

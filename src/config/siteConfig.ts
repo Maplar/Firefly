@@ -76,14 +76,14 @@ export const siteConfig: SiteConfig = {
 	// 页面整体宽度（单位：rem）
 	// 数值越大可以让页面内容区域更宽
 	// 在使用单侧栏边栏时，建议调低一些宽度以获得更好的视觉效果。
-	pageWidth: 100,
+	pageWidth: 78,
 
 	// 网站Card样式配置
 	card: {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
-		border: false,
+		border: true,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
