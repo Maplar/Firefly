@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "希望在旅途的终点，每个人都能抵达向往的结局。",
 
 	// 站点 URL
-	site_url: "https://maplar.cn/",
+	site_url: "https://blog.maplar.cn/",
 
 	// 站点描述
 	description:
